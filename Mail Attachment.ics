@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:W. Central Africa Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Guillermo Lopez Pisani:mailto:guillermo.pisani@andela.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nyakagwafr
+ ed@github.com:mailto:nyakagwafred@github.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=komolafete
+ mitope14@github.com:mailto:komolafetemitope14@github.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sekinat-la
+ b@github.com:mailto:Sekinat-lab@github.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=judeigwe@g
+ ithub.com:mailto:judeigwe@github.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=jaboo9:mai
+ lto:jaboo9@github.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=peterjuma@
+ github.com:mailto:peterjuma@github.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ayibatonye
+ -ikemike@github.com:mailto:ayibatonye-ikemike@github.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=teekay1234
+ 5@github.com:mailto:teekay12345@github.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Scholastic
+ Tolase@github.com:mailto:ScholasticTolase@github.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Fatimath B
+ awa-Allah:mailto:fatimath.bawa-allah@andela.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Wanda Gonz
+ alez:mailto:wanda.gonzalez@andela.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Anine Ward
+ :mailto:anine.ward@andela.com
+DESCRIPTION;LANGUAGE=en-US:TS ES Monthly call.\n\n_________________________
+ _______________________________________________________\nMicrosoft Teams N
+ eed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>\nJoin the meeting no
+ w<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjZjM2YxZDUtODBhN
+ i00ZWYwLThhNDQtYzIyMzRjMzllNzMy%40thread.v2/0?context=%7b%22Tid%22%3a%222c
+ e18846-7f1d-44cd-927f-b31eb546dcd4%22%2c%22Oid%22%3a%2238e0fe5b-55d8-46fd-
+ 9a1b-00e41dfc8f18%22%7d>\nMeeting ID: 217 939 784 665\nPasscode: JBMWod\n_
+ _______________________________\nDial-in by phone\nFor organizers: Meeting
+  options<https://teams.microsoft.com/meetingOptions/?organizerId=38e0fe5b-
+ 55d8-46fd-9a1b-00e41dfc8f18&tenantId=2ce18846-7f1d-44cd-927f-b31eb546dcd4&
+ threadId=19_meeting_YjZjM2YxZDUtODBhNi00ZWYwLThhNDQtYzIyMzRjMzllNzMy@threa
+ d.v2&messageId=0&language=en-US> | Reset dial-in PIN<https://dialin.teams.
+ microsoft.com/usp/pstnconferencing>\n[https://theme.zdassets.com/theme_ass
+ ets/1419996/c62a35cecf14339f107ff116a60475082b96ec79.png]\nOrg help<https:
+ //almanac.io/folders/microsoft-365-8MI6yI> | Privacy and security<https://
+ andela.com/legal>\n_______________________________________________________
+ _________________________\n
+UID:040000008200E00074C5B7101A82E0080000000024550D600F60DA01000000000000000
+ 01000000088703E0401E1B14A9BCB5C5DBACAB4A9
+RECURRENCE-ID;TZID=W. Central Africa Standard Time:20240516T140000
+SUMMARY;LANGUAGE=en-US:GitHub TS ES - Monthly
+DTSTART;TZID=W. Central Africa Standard Time:20240523T140000
+DTEND;TZID=W. Central Africa Standard Time:20240523T143000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20240513T213617Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:3
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:3
+X-MICROSOFT-CDO-OWNERAPPTID:2122480164
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_YjZjM2YxZDUtODBhNi00ZWYwLThhNDQtYzIyMzRjMzllNzMy%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%222ce18846-7f1d-44cd-927f-b31eb546dcd4%22%2c%22O
+ id%22%3a%2238e0fe5b-55d8-46fd-9a1b-00e41dfc8f18%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/2ce18846-7f1d-44cd-927f-b31eb546dcd4/38e0fe5b-55d8-46fd-9a1b-0
+ 0e41dfc8f18/19_meeting_YjZjM2YxZDUtODBhNi00ZWYwLThhNDQtYzIyMzRjMzllNzMy@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_YjZjM2YxZDUtODBhNi00ZWY
+ wLThhNDQtYzIyMzRjMzllNzMy@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"priva
+ te":true\,"type":0}
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:Microsoft Teams Meeting
+X-MICROSOFT-LOCATIONSOURCE:None
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"Microsoft Teams Meeting"\,"LocationA
+ nnotation":""\,"LocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"
+ LocationState":""\,"LocationCountry":""\,"LocationPostalCode":""\,"Locatio
+ nFullAddress":""}]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT10M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
